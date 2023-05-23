@@ -1,0 +1,17 @@
+{
+    "2": {
+        "Name": "Tandoori Chicken",
+        "Quantity": "4 Pieces",
+        "Price": "INR 240"
+    },
+    "3": {
+        "Name": "Vegan Burger",
+        "Quantity": "1 Pieces",
+        "Price": "INR 320"
+    },
+    "1": {
+        "Name": "Truffle Cake",
+        "Quantity": "500 gm",
+        "Price": "INR 900"
+    }
+}
